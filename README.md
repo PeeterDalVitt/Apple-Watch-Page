@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # ⌚ Apple Watch Page
+=======
+# ⌚ Hashwatch
+>>>>>>> 90e7ae8 (Proper commits)
 
 A responsive product customization page inspired by Apple's Watch storefront.  
 Built entirely with **HTML, CSS, and vanilla JavaScript**, this project simulates an interactive online store experience — where users can preview different product **colors**, **sizes**, and **images** dynamically.
@@ -48,3 +52,4 @@ All state is managed through simple index variables:
 let numImagemSelecionada = 1;
 let numTamanhoSelecionado = 1;
 let numCorSelecionada = 1;
+
